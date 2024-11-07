@@ -620,7 +620,7 @@ INNER JOIN cte_2023
 ON cte_2022.product_id = cte_2023.product_id
 ORDER BY dec_ratio 
 LIMIT 10; 
-
+```
 
 ---
 
